@@ -1,0 +1,2 @@
+# copyLinkAsMarkdown
+复制网页或图片链接为markdown格式-使用GPT4创建
