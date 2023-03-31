@@ -1,7 +1,18 @@
 # copyLinkAsMarkdown
-复制网页或图片链接为markdown格式-使用GPT4创建
+复制网页或图片链接为`markdown`格式-使用`ChatGPT4`创建
 
 
+
+## 使用方法
+
+1. 打开谷歌浏览器的扩展程序( chrome://extensions/ ）
+2. 打开开发者模式
+3. 加载已解压的扩展程序，选择`copyLinkAsMarkdown\source`即可。
+4. 在浏览其他网页或图片的时候想要复制`markdown`链接，右键菜单即可直接复制。
+
+
+
+## 与ChatGPT的沟通记录
 
 ```
 我是一个前端小白，请帮助我编写一个chrome浏览器插件，主要功能：
@@ -12,8 +23,6 @@
 5、使用最新版的chrome插件版本开发。
 6、要求步骤和教程尽量简单简介。
 ```
-
-
 
 
 
